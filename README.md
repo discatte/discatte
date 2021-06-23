@@ -10,5 +10,5 @@ a pile of discattes
 ![CGA 4B](https://raw.githubusercontent.com/discatte/catpile/main/discatte-cga-4-b-rgb.png)
 ![Minidisc](https://raw.githubusercontent.com/discatte/catpile/main/discatte-minidisc-a-rgb.png)
 ![Minidisc](https://raw.githubusercontent.com/discatte/catpile/main/discatte-minidisc-rgb.png)
-![Original](https://raw.githubusercontent.com/discatte/catpile/main/discatte-og-rgb.png.png)
+![Original](https://raw.githubusercontent.com/discatte/catpile/main/discatte-og-rgb.png)
 ![VAIO](https://raw.githubusercontent.com/discatte/catpile/main/discatte-vaio-rgb.png)
