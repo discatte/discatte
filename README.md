@@ -12,3 +12,4 @@ a pile of discattes
 ![Minidisc](https://raw.githubusercontent.com/discatte/catpile/main/discatte-minidisc-rgb.png)
 ![Original](https://raw.githubusercontent.com/discatte/catpile/main/discatte-og-rgb.png)
 ![VAIO](https://raw.githubusercontent.com/discatte/catpile/main/discatte-vaio-rgb.png)
+![Shadow](https://raw.githubusercontent.com/discatte/catpile/main/discatte-bynumbers-rgb.png)
