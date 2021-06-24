@@ -1,6 +1,3 @@
-# catpile
-a pile of discattes
-
 ![CGA 1](https://raw.githubusercontent.com/discatte/catpile/main/discatte-cga-1-rgb.png)
 ![CGA 2A](https://raw.githubusercontent.com/discatte/catpile/main/discatte-cga-2-a-rgb.png)
 ![CGA 2B](https://raw.githubusercontent.com/discatte/catpile/main/discatte-cga-2-b-rgb.png)
